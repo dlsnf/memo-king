@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  MemoKing
+
+  Created by Nu-Ri Lee on 2017. 4. 27..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+"app" = "메모킹";
+"new" = "새 글";
+"memo" = "메모";
+"delete" = "삭제";
+"addText" = "추가 텍스트 없음.";
+"cancel" = "취소";
+
+"oneMorePassword" = "비밀번호를 한번 더 입력해 주세요.";
+"passwordNotMach" = "비밀번호가 일치하지 않습니다.";
+"passwordFailed" = "다시 시도";
+"setPassword" = "비밀번호를 설정해 주세요.";
+"enterPassword" = "비밀번호를 입력해 주세요.";
+"enterTouchId" = "Touch ID를 입력해 주세요.";
+"search" = "검색";
+
+"password" = "비밀번호를 설정하시겠습니까?";
+
+

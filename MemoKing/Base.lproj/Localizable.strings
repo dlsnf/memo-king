@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  MemoKing
+
+  Created by Nu-Ri Lee on 2017. 4. 27..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+"app" = "MemoKing";
+"new" = "New";
+"memo" = "Memo";
+"delete" = "Delete";
+"addText" = "No additional text";
+"cancel" = "Cancel";
+
+"oneMorePassword" = "Please enter your password again.";
+"passwordNotMach" = "Passwords are not the same.";
+"passwordFailed" = "Try again";
+"setPassword" = "Please set a password.";
+"enterPassword" = "Please enter a password.";
+"enterTouchId" = "Please enter your Touch ID.";
+"search" = "Search";
+
+"password" = "Do you want to set a password?";
+
+
+
+"firstRankToday" = "Take the first place today.";
+"firstRankAll" = "Try to get first place.";

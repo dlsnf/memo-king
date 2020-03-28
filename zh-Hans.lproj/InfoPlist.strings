@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  MemoKing
+
+  Created by Nu-Ri Lee on 2017. 4. 27..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+CFBundleDisplayName = "触摸王";

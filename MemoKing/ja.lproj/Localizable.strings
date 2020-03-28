@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  MemoKing
+
+  Created by Nu-Ri Lee on 2017. 4. 27..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+"app" = "ﾒﾓキング";
+"new" = "新しいﾒﾓ";
+"memo" = "ﾒﾓ";
+"delete" = "削除";
+"addText" = "追加テキストなし";
+"cancel" = "キャンセル";
+
+"oneMorePassword" = "新しいパスワードを確認";
+"passwordNotMach" = "パスワードが一致しません。";
+"passwordFailed" = "やり直し";
+"setPassword" = "パスワードを設定";
+"enterPassword" = "パスワードを入力";
+"enterTouchId" = "Touch IDを入力してください。";
+"search" = "検索";
+
+"password" = "パスワードを設定しますか?";

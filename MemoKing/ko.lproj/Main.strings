@@ -1,0 +1,47 @@
+
+/* Class = "UINavigationItem"; title = "Write"; ObjectID = "3Xb-vo-1FP"; */
+"3Xb-vo-1FP.title" = "글쓰기";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "9b3-QF-Nzd"; */
+"9b3-QF-Nzd.title" = "뒤로";
+
+/* Class = "UIBarButtonItem"; title = "Delete"; ObjectID = "CdH-rZ-zDA"; */
+"CdH-rZ-zDA.title" = "삭제";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Gih-1X-oPx"; */
+"Gih-1X-oPx.text" = "제목";
+
+/* Class = "UILabel"; text = "2017. 04. 18."; ObjectID = "Hr9-n6-uqe"; */
+"Hr9-n6-uqe.text" = "2017. 04. 18.";
+
+/* Class = "UILabel"; text = "Header"; ObjectID = "JKz-Fn-wxz"; */
+"JKz-Fn-wxz.text" = "헤더";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "c6K-fb-WiR"; */
+"c6K-fb-WiR.normalTitle" = "완료";
+"hv9-UN-bib.title" = "저장";
+
+"AhB-R6-cCX.title" = "설정";
+
+"u0f-BC-5h9.text" = "비밀번호";
+"xzf-mn-bNt.text" = "비밀번호 설정";
+"lDA-rI-kc8.text" = "Touch ID를 사용할 수 없습니다.";
+"Awk-W0-Mo6.headerTitle" = "화면잠금";
+"U9c-zw-ws7.headerTitle" = "백그라운드";
+"qPv-E8-7Ss.text" = "백그라운드에서 화면 가리기";
+
+"dPM-pJ-BEI.normalTitle" = "Delete";
+
+
+
+
+
+/* Class = "UILabel"; text = "No additional text"; ObjectID = "kQI-2g-3og"; */
+"kQI-2g-3og.text" = "추가 텍스트 없음.";
+
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officcaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irur"; ObjectID = "s9A-ZV-cvU"; */
+"s9A-ZV-cvU.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officcaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irur";
+
+/* Class = "UINavigationItem"; title = "MemoKing"; ObjectID = "zFl-N9-t43"; */
+"zFl-N9-t43.title" = "메모킹";
